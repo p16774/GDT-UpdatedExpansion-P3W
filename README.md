@@ -1,3 +1,15 @@
+###Revision to the original Expansion Pack for Gave Dev Tycoon (Version 0.0.1)
+
+This is my attempt to take the great framework developed by [DEVELOPER] and incorporate the changes that have been suggested by the community. I came across the original and read the reviews only to find out that most of the changes had some serious flaws to them. I LOVE GDT and wanted to see if I could incorporate the suggestions and make an otherwise unuseable expansion pack something that could bring new life into the already massively popular game, and maybe even learn a thing or two about mods in general. I developed a mod for DayZ that while I thought was a cool feature, it never really took off. I'm hoping to expand my coding knowledge while, hopefully, expanding on a game that is still popular and still brings in many players.
+
+
+[Will be expanded as I develop this mod]
+
+
+*Original Readme displayed below:
+==============================================================================================
+
+
 ###Expansion Pack for Game Dev Tycoon (Current Version 1.2.0)
 
 This is my overall expansion pack for Game Dev Tycoon.
